@@ -83,7 +83,7 @@ public class Program3 extends Application {
             System.out.println("Menu Item 1 Selected");
             Alert alert = new Alert(AlertType.INFORMATION);
             alert.setTitle("Information Dialog");
-            alert.setHeaderText("This is our Wheel GUI");
+            alert.setHeaderText("Brennan Sweeney Wheel GUI!!!");
             alert.setContentText("The actions menu includes random, reverse, and clear the text area.\nThe report menu includes first, last, size, and print.");
             alert.showAndWait();
         });
